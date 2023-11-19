@@ -1,0 +1,3 @@
+NOTE:
+
+Main Java files yung irun niyo, wag yung mga walang main
